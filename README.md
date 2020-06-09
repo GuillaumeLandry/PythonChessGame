@@ -1,9 +1,10 @@
-# Python-Chess-IFT-1004
-Python chess game made for a course given by Université Laval (Course ID: IFT-1004)
+# Python Chess Game
+
+GUI Chess game made for a course given by Université Laval, in Quebec City. (Course ID: IFT-1004)
 
 # Requirements
 
-In order to play, you must have 'python' installed on your computer. You can get it via [Python's website](https://www.python.org/).
+In order to play, python must be installed on your computer. You can get it via [Python's website](https://www.python.org/).
 
 # How to play
 
@@ -17,12 +18,11 @@ git clone https://github.com/GuillaumeLandry/PythonChessGame.git
 cd pythonchessgame
 ```
 
-3. Run the __main__.py script and enjoy!
+3. Run the __main.py__ script and enjoy!
 ```bash
 python __main__.py
 ```
 
 # Contributors
 
-Guillaume Landry
-Jean-Sébastien Beauregard
+Guillaume Landry and Sébastien Beauregard
