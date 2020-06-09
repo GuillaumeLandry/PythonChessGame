@@ -10,12 +10,12 @@ In order to play, python must be installed on your computer. You can get it via 
 
 # How to play
 
-1. Fork/Clone the repository.
+1. Open your terminal, then clone the repository.
 ```bash
 git clone https://github.com/GuillaumeLandry/PythonChessGame.git
 ```
 
-2. Via terminal, change directory to your local game folder.
+2. Change directory to your local game folder.
 ```bash
 cd pythonchessgame
 ```
