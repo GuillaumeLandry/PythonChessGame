@@ -1,6 +1,6 @@
 # Python Chess Game
 
-GUI Chess game made for a course given by Université Laval, in Quebec City. (Course ID: IFT-1004)
+GUI Chess game made for a course given by Université Laval. (Course ID: IFT-1004)
 
 ![InGame](https://github.com/GuillaumeLandry/PythonChessGame/blob/master/assets/ingame.PNG)
 
