@@ -2,6 +2,8 @@
 
 GUI Chess game made for a course given by Université Laval, in Quebec City. (Course ID: IFT-1004)
 
+![InGame](https://github.com/GuillaumeLandry/PythonChessGame/assets/ingame.png)
+
 # Requirements
 
 In order to play, python must be installed on your computer. You can get it via [Python's website](https://www.python.org/).
