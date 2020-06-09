@@ -2,7 +2,7 @@
 
 GUI Chess game made for a course given by Université Laval, in Quebec City. (Course ID: IFT-1004)
 
-![InGame](https://github.com/GuillaumeLandry/PythonChessGame/assets/ingame.PNG)
+![InGame] (https://github.com/GuillaumeLandry/PythonChessGame/tree/master/assets)
 
 # Requirements
 
